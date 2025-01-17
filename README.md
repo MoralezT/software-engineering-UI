@@ -18,7 +18,7 @@ GROUP BY
 ```
 
 # output
-![Primary Navigation](C:\Documents\Software Engineering Portfolio)
+![Primary Navigation](PrimaryNavigation.png)
 
 # PHP 
 ## Code sample to receive user input and return calculated result
